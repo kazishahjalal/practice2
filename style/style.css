@@ -1,0 +1,31 @@
+
+body{
+	width: 1100px;
+	margin-right:auto;
+	margin-left:auto;}
+
+h1{font-size: 50px; text-align: center;}
+
+img{max-width: 100%;border-radius: 10px}
+
+p{font-size: 18px;font-family: arial; text-align: center;}
+
+.container{width: 800px;margin-left: auto;
+	margin-right: auto;}
+
+.bgc1{background-color: red}
+.bgc2{background-color: green}
+.bgc3{background-color: blue}
+.bgc4{background-color: pink}
+
+.c1{color: red}
+.c2{color: green}
+.c3{color: blue}
+.c4{color: #fff}
+.post{height:200px;
+	width:33.33%;
+	float: right;}
+
+.img{padding: 10px}
+.img3{padding: 15px;
+	margin-top:16px;}
